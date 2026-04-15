@@ -1,0 +1,29 @@
+{
+  "name": "KERNEL-01 | XKSH808 Digital Services Hawaii",
+  "short_name": "KERNEL-01",
+  "description": "XKSH808 AI Business Agent — Digital Services Hawaii",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070b16",
+  "theme_color": "#070b16",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='36' fill='%230c1020'/><rect x='16' y='16' width='160' height='160' rx='28' fill='none' stroke='%230ff4c6' stroke-width='2' opacity='0.5'/><text x='96' y='115' text-anchor='middle' font-family='monospace' font-size='64' font-weight='700' fill='%230ff4c6'>K1</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Quick Intake",
+      "short_name": "Intake",
+      "description": "Start a new client intake module",
+      "url": "./?q=intake"
+    }
+  ]
+}
